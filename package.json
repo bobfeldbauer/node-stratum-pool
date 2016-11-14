@@ -10,7 +10,9 @@
         "poolserver",
         "bitcoin",
         "litecoin",
-        "scrypt"
+        "scrypt",
+        "zcash",
+        "equihash"
     ],
     "homepage": "https://github.com/zone117x/node-stratum-pool",
     "bugs": {
